@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "lib": ["es2015", "dom"], // include ES2015 library
+    "target": "es5" // or "es3" if you really need it
+  }
+}

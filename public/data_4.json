@@ -1,0 +1,1702 @@
+[
+  {
+    "word": {
+      "text": "早める",
+      "transliterations": "はやめる",
+      "part_of_speech": "Verb",
+      "meaning": "move forward (time, schedule etc.), expedite",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02128A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "集合時間を30分<b>早めました</b>。",
+        "transliterations": "しゅうごう じかん を 30 ぷん <b>はやめました</b>。",
+        "meaning": "I pushed forward the meeting 30 minutes.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02128A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "弱める",
+      "transliterations": "よわめる",
+      "part_of_speech": "Verb",
+      "meaning": "weaken (something)",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02133A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "火を<b>弱めて</b>ください。",
+        "transliterations": "ひ を <b>よわめて</b> ください。",
+        "meaning": "Please turn down the heat.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02133A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "落ち着き",
+      "transliterations": "おちつき",
+      "part_of_speech": "Noun",
+      "meaning": "calm, composure",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02141A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "弟は<b>落ち着き</b>が足りません。",
+        "transliterations": "おとうと は <b>おちつき</b> が たりません。",
+        "meaning": "My little brother lacks composure.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02141A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "油絵",
+      "transliterations": "あぶらえ",
+      "part_of_speech": "Noun",
+      "meaning": "oil painting",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02231A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "趣味で<b>油絵</b>を描いています。",
+        "transliterations": "しゅみ で <b>あぶらえ</b> を かいて います。",
+        "meaning": "I draw oil paintings as a hobby.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02231A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "手本",
+      "transliterations": "てほん",
+      "part_of_speech": "Noun",
+      "meaning": "model, good example",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02278A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>手本</b>を見ながら習字をしました。",
+        "transliterations": "<b>てほん</b> を みながら しゅうじ を しました。",
+        "meaning": "I practiced calligraphy by looking at the models.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02278A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "改まる",
+      "transliterations": "あらたまる",
+      "part_of_speech": "Verb",
+      "meaning": "be renewed, be improved",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02369A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "年号が<b>改まりました</b>。",
+        "transliterations": "ねんごう が <b>あらたまりました</b>。",
+        "meaning": "The name of the era has been renewed.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02369A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "浜辺",
+      "transliterations": "はまべ",
+      "part_of_speech": "Noun",
+      "meaning": "beach, area around the seashore",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02392A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>浜辺</b>できれいな貝がらを拾いました。",
+        "transliterations": "<b>はまべ</b> で きれいな かいがら を ひろいました。",
+        "meaning": "I picked up a beautiful shell on the beach.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02392A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "家出",
+      "transliterations": "いえで",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "running away from home",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02406A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼の息子が<b>家出</b>したそうよ。",
+        "transliterations": "かれ の むすこ が <b>いえで</b> した そう よ。",
+        "meaning": "I heard that his son ran away from home.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02406A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "観衆",
+      "transliterations": "かんしゅう",
+      "part_of_speech": "Noun",
+      "meaning": "audience, spectators",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02443A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "スタジアムは<b>観衆</b>で満員だったよ。",
+        "transliterations": "スタジアム は <b>かんしゅう</b> で まんいん だった よ。",
+        "meaning": "The stadium was full of spectators.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02443A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ジーパン",
+      "transliterations": "ジーパン",
+      "part_of_speech": "Noun",
+      "meaning": "jeans",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02477A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼はいつも<b>ジーパン</b>をはいているね。",
+        "transliterations": "かれ は いつも <b>ジーパン</b> を はいて いる ね。",
+        "meaning": "He always wears jeans.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02477A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "名札",
+      "transliterations": "なふだ",
+      "part_of_speech": "Noun",
+      "meaning": "name tag",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02532A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "生徒たちは校内では<b>名札</b>をつけます。",
+        "transliterations": "せいと たち は こうない で は <b>なふだ</b> を つけます。",
+        "meaning": "Students wear name tags on campus.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02532A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "防火",
+      "transliterations": "ぼうか",
+      "part_of_speech": "Noun",
+      "meaning": "fire prevention",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02538A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "学校で<b>防火</b>訓練がありました。",
+        "transliterations": "がっこう で <b>ぼうか</b> くんれん が ありました。",
+        "meaning": "We had a fire drill at school.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02538A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "産婦人科",
+      "transliterations": "さんふじんか",
+      "part_of_speech": "Noun",
+      "meaning": "obstetrics and gynecology department",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02560A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "最近、<b>産婦人科</b>の不足が問題になっているね。",
+        "transliterations": "さいきん、<b>さんふじんか</b> の ふそく が もんだい に なって いる ね。",
+        "meaning": "A shortage of obstetrics and gynecology specialists has become a problem lately.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02560A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "未婚",
+      "transliterations": "みこん",
+      "part_of_speech": "Noun",
+      "meaning": "being unmarried, being single",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02585A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼はまだ<b>未婚</b>です。",
+        "transliterations": "かれ は まだ <b>みこん</b> です。",
+        "meaning": "He's still single.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02585A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "過労",
+      "transliterations": "かろう",
+      "part_of_speech": "Noun",
+      "meaning": "overwork",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02598A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は<b>過労</b>のために倒れたの。",
+        "transliterations": "かれ は <b>かろう</b> の ため に たおれた の。",
+        "meaning": "He collapsed from overwork.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02598A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "頑丈",
+      "transliterations": "がんじょう",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "solid, secure",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02599A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "錠を<b>頑丈</b>なものに替えました。",
+        "transliterations": "じょう を <b>がんじょう</b>な もの に かえました。",
+        "meaning": "I replaced the lock with a more secure one.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02599A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "値打ち",
+      "transliterations": "ねうち",
+      "part_of_speech": "Noun",
+      "meaning": "(subjective) value, worth",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02657A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "この絵はとても<b>値打ち</b>があります。",
+        "transliterations": "この え は とても <b>ねうち</b> が あります。",
+        "meaning": "This painting is very valuable.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02657A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "使用人",
+      "transliterations": "しようにん",
+      "part_of_speech": "Noun",
+      "meaning": "servant",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02685A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は<b>使用人</b>を首にしたよ。",
+        "transliterations": "かれ は <b>しようにん</b> を くび に した よ。",
+        "meaning": "He fired the servant.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02685A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "生やす",
+      "transliterations": "はやす",
+      "part_of_speech": "Verb",
+      "meaning": "grow (a beard, hair etc.)",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02698A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼はヒゲを<b>生やして</b>います。",
+        "transliterations": "かれ は ヒゲ を <b>はやして</b> います。",
+        "meaning": "He's growing a beard.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02698A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "効き目",
+      "transliterations": "ききめ",
+      "part_of_speech": "Noun",
+      "meaning": "effectiveness, efficacy",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02722A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "この薬の<b>効き目</b>は素晴らしいの。",
+        "transliterations": "この くすり の <b>ききめ</b> は すばらしい の。",
+        "meaning": "The effectiveness of this medicine is great.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02722A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "勇敢",
+      "transliterations": "ゆうかん",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "brave, heroic",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02749A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼女はとても<b>勇敢</b>でした。",
+        "transliterations": "かのじょ は とても <b>ゆうかん</b> でした。",
+        "meaning": "She was very brave.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02749A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "洋風",
+      "transliterations": "ようふう",
+      "part_of_speech": "Noun",
+      "meaning": "Western-like, Western-inspired",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02751A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "私は<b>洋風</b>の家に住んでいます。",
+        "transliterations": "わたし は <b>ようふう</b> の いえ に すんで います。",
+        "meaning": "I live in a Western-inspired house.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02751A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "待ち望む",
+      "transliterations": "まちのぞむ",
+      "part_of_speech": "Verb",
+      "meaning": "look forward to, hope for",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02788A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "その国の人々は平和を<b>待ち望んで</b>いるの。",
+        "transliterations": "その くに の ひとびと は へいわ を <b>まちのぞんで</b> いる の。",
+        "meaning": "The people in that country are hoping for peace.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02788A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "心掛ける",
+      "transliterations": "こころがける",
+      "part_of_speech": "Verb",
+      "meaning": "bear in mind",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02817A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "安全運転を<b>心掛けて</b>ください。",
+        "transliterations": "あんぜん うんてん を <b>こころがけて</b> ください。",
+        "meaning": "Please remember to drive safely.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02817A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "聞き取り",
+      "transliterations": "ききとり",
+      "part_of_speech": "Noun",
+      "meaning": "listening comprehension",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02813A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "英語の<b>聞き取り</b>試験を受けたよ。",
+        "transliterations": "えいご の <b>ききとり</b> しけん を うけた よ。",
+        "meaning": "I took an English listening comprehension exam.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02813A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "同封",
+      "transliterations": "どうふう",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "enclosure",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02831A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "手紙に写真が<b>同封</b>されていたよ。",
+        "transliterations": "てがみ に しゃしん が <b>どうふう</b> されて いた よ。",
+        "meaning": "A photograph was enclosed with the letter.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02831A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "身なり",
+      "transliterations": "みなり",
+      "part_of_speech": "Noun",
+      "meaning": "one's appearance, attire",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02847A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>身なり</b>のいい人が入ってきた。",
+        "transliterations": "<b>みなり</b> の いい ひと が はいって きた。",
+        "meaning": "A well-dressed person came in.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02847A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "水洗",
+      "transliterations": "すいせん",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "flushing, washing",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02871A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "今はほとんどのトイレが<b>水洗</b>ですよ。",
+        "transliterations": "いま は ほとんど の トイレ が <b>すいせん</b> です よ。",
+        "meaning": "Most toilets these days flush.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02871A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "鈍感",
+      "transliterations": "どんかん",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "dull, insensitive",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02877A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "あの人は少し<b>鈍感</b>だと思います。",
+        "transliterations": "あの ひと は すこし <b>どんかん</b> だ と おもいます。",
+        "meaning": "That person is a bit insensitive, I think.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02877A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ひび",
+      "transliterations": "ひび",
+      "part_of_speech": "Noun",
+      "meaning": "crack",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02887A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "窓ガラスに<b>ひび</b>が入ったよ。",
+        "transliterations": "まど ガラス に <b>ひび</b> が はいった よ。",
+        "meaning": "We've got a crack in the window glass.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02887A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "冷淡",
+      "transliterations": "れいたん",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "cold-hearted, indifferent",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02901A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は彼女に<b>冷淡</b>な態度をとったね。",
+        "transliterations": "かれ は かのじょ に <b>れいたん</b>な たいど を とった ね。",
+        "meaning": "He showed an indifferent attitude toward her.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02901A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "卑しい",
+      "transliterations": "いやしい",
+      "part_of_speech": "Adjective",
+      "meaning": "greedy, vulgar",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02904A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は金に<b>卑しい</b>ね。",
+        "transliterations": "かれ は かね に <b>いやしい</b> ね。",
+        "meaning": "He's greedy for money.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02904A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "さぞ",
+      "transliterations": "さぞ",
+      "part_of_speech": "Adverb",
+      "meaning": "no doubt, must",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02924A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "それは<b>さぞ</b>がっかりしたことでしょう。",
+        "transliterations": "それ は <b>さぞ</b> がっかり した こと でしょう。",
+        "meaning": "That must have been disappointing.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02924A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "休学",
+      "transliterations": "きゅうがく",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "leave of absence from school",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02967A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "1年<b>休学</b>することにしました。",
+        "transliterations": "1 ねん <b>きゅうがく</b> する こと に しました。",
+        "meaning": "I decided to take a one-year leave from school.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02967A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "始発",
+      "transliterations": "しはつ",
+      "part_of_speech": "Noun",
+      "meaning": "first departure",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02976A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>始発</b>の電車に乗りました。",
+        "transliterations": "<b>しはつ</b> の でんしゃ に のりました。",
+        "meaning": "I took the first train.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02976A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "平たい",
+      "transliterations": "ひらたい",
+      "part_of_speech": "Adjective",
+      "meaning": "flat and thin",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02993A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>平たい</b>お皿を一枚取って。",
+        "transliterations": "<b>ひらたい</b> おさら を いち まい とって。",
+        "meaning": "Can you hand me a flat and thin plate?",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02993A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "封",
+      "transliterations": "ふう",
+      "part_of_speech": "Noun",
+      "meaning": "seal, sealing",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02994A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "手紙に<b>封</b>をしたよ。",
+        "transliterations": "てがみ に <b>ふう</b> を した よ。",
+        "meaning": "I sealed the letter.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02994A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "徐行",
+      "transliterations": "じょこう",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "driving slowly",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03028A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "この先は<b>徐行</b>してください。",
+        "transliterations": "この さき は <b>じょこう</b> して ください 。",
+        "meaning": "Please drive slowly ahead.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03028A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "天災",
+      "transliterations": "てんさい",
+      "part_of_speech": "Noun",
+      "meaning": "natural disaster",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03038A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>天災</b>を防ぐことはできません。",
+        "transliterations": "<b>てんさい</b> を ふせぐ こと は できません。",
+        "meaning": "Natural disasters cannot be prevented.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03038A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "生臭い",
+      "transliterations": "なまぐさい",
+      "part_of_speech": "Adjective",
+      "meaning": "smelling fishy",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03040A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "まな板が<b>生臭い</b>です。",
+        "transliterations": "まないた が <b>なまぐさい</b> です。",
+        "meaning": "The chopping board smells fishy.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03040A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "慣らす",
+      "transliterations": "ならす",
+      "part_of_speech": "Verb",
+      "meaning": "accustom (oneself or someone) to",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03041A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "水の温度に体を<b>慣らして</b>から、潜ったほうがいいぞ。",
+        "transliterations": "みず の おんど に からだ を <b>ならして</b> から、もぐった ほう が いい ぞ。",
+        "meaning": "You should get used to the water temperature first before you dive in.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03041A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "膨れる",
+      "transliterations": "ふくれる",
+      "part_of_speech": "Verb",
+      "meaning": "expand, grow big",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03052A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "お腹が<b>膨れたら</b>眠くなった。",
+        "transliterations": "おなか が <b>ふくれたら</b> ねむく なった。",
+        "meaning": "Now that I'm full, I'm sleepy.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03052A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "軽率",
+      "transliterations": "けいそつ",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "careless, thoughtless",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03075A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>軽率</b>な発言はしないよう、気をつけなさい。",
+        "transliterations": "<b>けいそつ</b>な はつげん は しない よう、きをつけなさい。",
+        "meaning": "Be careful not to make any thoughtless comments.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03075A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "私用",
+      "transliterations": "しよう",
+      "part_of_speech": "Noun",
+      "meaning": "personal business",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03080A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>私用</b>で出かけなければなりません。",
+        "transliterations": "<b>しよう</b> で でかけ なければ なりません。",
+        "meaning": "I have to go out to take care of personal business.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03080A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "和やか",
+      "transliterations": "なごやか",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "peaceful, friendly",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03094A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼らは<b>和やか</b>に食事をした。",
+        "transliterations": "かれら は <b>なごやか</b> に しょくじ を した。",
+        "meaning": "They ate in a peaceful mood.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03094A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "雨天",
+      "transliterations": "うてん",
+      "part_of_speech": "Noun",
+      "meaning": "rainy weather",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03127A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "試合は<b>雨天</b>中止です。",
+        "transliterations": "しあい は <b>うてん</b> ちゅうし です。",
+        "meaning": "The game will be cancelled in case of rain.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03127A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "駆け足",
+      "transliterations": "かけあし",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "gallop, run",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03129A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "駅まで<b>駆け足</b>で行ったよ。",
+        "transliterations": "えき まで <b>かけあし</b> で いった よ。",
+        "meaning": "I went to the station at a run.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03129A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "カンニング",
+      "transliterations": "カンニング",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "cheating",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03132A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>カンニング</b>をした人は0点です。",
+        "transliterations": "<b>カンニング</b> を した ひと は 0 てん です。",
+        "meaning": "Those who cheat on the exam will receive zero.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03132A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "年賀",
+      "transliterations": "ねんが",
+      "part_of_speech": "Noun",
+      "meaning": "New Year's celebration, New Year's gift",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03161A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>年賀</b>葉書が売り出されたね。",
+        "transliterations": "<b>ねんが</b> はがき が うりだされた ね。",
+        "meaning": "New Year's greeting cards are now on sale.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03161A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "見晴らし",
+      "transliterations": "みはらし",
+      "part_of_speech": "Noun",
+      "meaning": "view, outlook",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03173A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "このベランダは<b>見晴らし</b>がいい。",
+        "transliterations": "この ベランダ は <b>みはらし</b> が いい。",
+        "meaning": "We have a good view from this veranda.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03173A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "身振り",
+      "transliterations": "みぶり",
+      "part_of_speech": "Noun",
+      "meaning": "gesture",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03174A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は<b>身振り</b>を交えて説明してくれたの。",
+        "transliterations": "かれ は <b>みぶり</b> を まじえて せつめい して くれた の。",
+        "meaning": "He explained it to me with gestures.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03174A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "指差す",
+      "transliterations": "ゆびさす",
+      "part_of_speech": "Verb",
+      "meaning": "point to",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03179A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "みんなが彼の<b>指差す</b>方を見たんだ。",
+        "transliterations": "みんな が かれ の <b>ゆびさす</b> ほう を みた ん だ。",
+        "meaning": "Everyone looked in the direction he pointed.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03179A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "襟",
+      "transliterations": "えり",
+      "part_of_speech": "Noun",
+      "meaning": "collar",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03191A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>襟</b>の大きいコートを買いました。",
+        "transliterations": "<b>えり</b> の おおきい コート を かいました。",
+        "meaning": "I bought a coat with a large collar.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03191A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "治まる",
+      "transliterations": "おさまる",
+      "part_of_speech": "Verb",
+      "meaning": "quiet down, subside",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03192A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "咳が少し<b>治まりました</b>。",
+        "transliterations": "せき が すこし <b>おさまりました</b>。",
+        "meaning": "My cough has subsided a little bit.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03192A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "恋する",
+      "transliterations": "こいする",
+      "part_of_speech": "Verb",
+      "meaning": "have feelings (for), fall in love",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03214A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>恋する</b>気持ちを歌にしました。",
+        "transliterations": "<b>こいする</b> きもち を うた に しました。",
+        "meaning": "I expressed my feelings of love in my song.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03214A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "裂ける",
+      "transliterations": "さける",
+      "part_of_speech": "Verb",
+      "meaning": "rip, tear",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03217A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "釘に引っかけて袖が<b>裂けて</b>しまったな。",
+        "transliterations": "くぎ に ひっかけて そで が <b>さけて</b> しまった な。",
+        "meaning": "My sleeve got caught on the nail and ripped.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03217A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "沈める",
+      "transliterations": "しずめる",
+      "part_of_speech": "Verb",
+      "meaning": "sink (something)",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03219A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼女はソファーに体を<b>沈めた</b>。",
+        "transliterations": "かのじょ は ソファー に からだ を <b>しずめた</b>。",
+        "meaning": "She sank down into the sofa.",
+        "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/5lbkb4c0rub8g.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "取り次ぐ",
+      "transliterations": "とりつぐ",
+      "part_of_speech": "Verb",
+      "meaning": "transfer a call",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03237A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "電話があったら<b>取り次いで</b>ください。",
+        "transliterations": "でんわ が あったら <b>とりついで</b> ください。",
+        "meaning": "When you get a call, please transfer it to me.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03237A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "顔つき",
+      "transliterations": "かおつき",
+      "part_of_speech": "Noun",
+      "meaning": "facial expression, countenance",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03272A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は恐い<b>顔つき</b>で話したの。",
+        "transliterations": "かれ は こわい <b>かおつき</b> で はなした の。",
+        "meaning": "He spoke with a scary look on his face.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03272A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "借り",
+      "transliterations": "かり",
+      "part_of_speech": "Noun",
+      "meaning": "debt, to owe someone something",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03276A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "この<b>借り</b>は必ず返します。",
+        "transliterations": "この <b>かり</b> は かならず かえします。",
+        "meaning": "I will definitely pay you back.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03276A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "耳鼻科",
+      "transliterations": "じびか",
+      "part_of_speech": "Noun",
+      "meaning": "otorhinology, ENT",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03290A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "今、<b>耳鼻科</b>にかかっています。",
+        "transliterations": "いま、<b>じび か</b> に かかって います。",
+        "meaning": "I'm seeing an ENT doctor now.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03290A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "成年",
+      "transliterations": "せいねん",
+      "part_of_speech": "Noun",
+      "meaning": "age of maturity, adulthood",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03295A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>成年</b>になると独立した戸籍を作れます。",
+        "transliterations": "<b>せいねん</b> に なる と どくりつ した こせき を つくれます。",
+        "meaning": "You can make your own family register once you become an adult.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03295A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "大概",
+      "transliterations": "たいがい",
+      "part_of_speech": "Adverb",
+      "meaning": "mainly, mostly",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03296A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>大概</b>、風邪は寝ていれば治ります。",
+        "transliterations": "<b>たいがい</b>、かぜ は ねて いれ ば なおります。",
+        "meaning": "In many cases, cold symptoms subside if you stay in bed.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03296A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "立て替える",
+      "transliterations": "たてかえる",
+      "part_of_speech": "Verb",
+      "meaning": "pay for others (for the time being)",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03299A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "お金がないなら私が<b>立て替えて</b>おきます。",
+        "transliterations": "おかね が ない なら わたし が <b>たてかえて</b> おきます。",
+        "meaning": "If you don't have any money, I'll pay for you for the time being.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03299A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "例え",
+      "transliterations": "たとえ",
+      "part_of_speech": "Noun",
+      "meaning": "example, metaphor",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03300A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>例え</b>を挙げると話が分かり易くなる。",
+        "transliterations": "<b>たとえ</b> を あげる と はなし が わかり やすく なる。",
+        "meaning": "It will be easier to understand if you give us an example.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03300A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "冷やかす",
+      "transliterations": "ひやかす",
+      "part_of_speech": "Verb",
+      "meaning": "tease, jeer",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03313A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "友達はそのカップルを<b>冷やかした</b>んだ。",
+        "transliterations": "ともだち は その カップル を <b>ひやかした</b> ん だ。",
+        "meaning": "My friend teased the couple.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03313A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "近眼",
+      "transliterations": "きんがん",
+      "part_of_speech": "Noun",
+      "meaning": "near-sightedness (colloquial)",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03348A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼女は<b>近眼</b>です。",
+        "transliterations": "かのじょ は <b>きんがん</b> です。",
+        "meaning": "She is nearsighted.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03348A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "下調べ",
+      "transliterations": "したしらべ",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "preliminary research",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03354A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "まず第一に、しっかり<b>下調べ</b>をしなさい。",
+        "transliterations": "まず だいいち に、しっかり <b>したしらべ</b> を しなさい。",
+        "meaning": "First of all, make sure to do thorough preliminary research.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03354A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "姓名",
+      "transliterations": "せいめい",
+      "part_of_speech": "Noun",
+      "meaning": "full name",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03358A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "あなたの<b>姓名</b>を教えてください。",
+        "transliterations": "あなた の <b>せいめい</b> を おしえて ください。",
+        "meaning": "Please tell me your full name.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03358A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "手数",
+      "transliterations": "てすう",
+      "part_of_speech": "Noun",
+      "meaning": "trouble, bother",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03371A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "お<b>手数</b>ですがよろしくお願いします。",
+        "transliterations": "お<b>てすう</b> です が よろしく おねがい します。",
+        "meaning": "Sorry to bother you, but please take care of it.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03371A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "遅らせる",
+      "transliterations": "おくらせる",
+      "part_of_speech": "Verb",
+      "meaning": "delay (something)",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c4cmap4of4.mp3"
+    },
+    "sentences": [
+      {
+        "text": "私たちは出発を1日<b>遅らせた</b>の。",
+        "transliterations": "わたし たち は しゅっぱつ を 1 にち <b>おくらせた</b> の。",
+        "meaning": "We delayed our departure by one day.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03430A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "かき回す",
+      "transliterations": "かきまわす",
+      "part_of_speech": "Verb",
+      "meaning": "stir up",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03433A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "母は鍋のシチューを<b>かき回して</b>いるよ。",
+        "transliterations": "はは は なべ の シチュー を <b>かきまわして</b> いる よ。",
+        "meaning": "My mother is stirring the stew in the pan.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03433A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "月謝",
+      "transliterations": "げっしゃ",
+      "part_of_speech": "Noun",
+      "meaning": "monthly fee",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03439A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "先生に<b>月謝</b>を渡しましたか。",
+        "transliterations": "せんせい に <b>げっしゃ</b> を わたしました か。",
+        "meaning": "Did you give the monthly fee to the teacher?",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03439A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "度忘れ",
+      "transliterations": "どわすれ",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "slipping from one's memory",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03465A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼の名前を<b>度忘れ</b>したぞ。",
+        "transliterations": "かれ の なまえ を <b>どわすれ</b> した ぞ。",
+        "meaning": "His name has completely slipped from my memory.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03465A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "漏る",
+      "transliterations": "もる",
+      "part_of_speech": "Verb",
+      "meaning": "leak",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03494A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "天井から雨が<b>漏る</b>の。",
+        "transliterations": "てんじょう から あめ が <b>もる</b> の。",
+        "meaning": "Rain is leaking from the ceiling.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03494A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "憧れ",
+      "transliterations": "あこがれ",
+      "part_of_speech": "Noun",
+      "meaning": "yearning, longing",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03510A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "海外に住むのは私の<b>憧れ</b>です。",
+        "transliterations": "かいがい に すむ の は わたし の <b>あこがれ</b> です。",
+        "meaning": "It would be a dream come true to live abroad.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03510A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "雨具",
+      "transliterations": "あまぐ",
+      "part_of_speech": "Noun",
+      "meaning": "rainwear",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03516A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>雨具</b>の用意を忘れないように。",
+        "transliterations": "<b>あまぐ</b> の ようい を わすれない ように。",
+        "meaning": "Don't forget to prepare your rainwear.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03516A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "臆病",
+      "transliterations": "おくびょう",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "cowardly, timid",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03553A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "弟は小さい頃は<b>臆病</b>だったんだ。",
+        "transliterations": "おとうと は ちいさい ころ は <b>おくびょう</b> だった ん だ。",
+        "meaning": "My younger brother used to be cowardly when he was little.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03553A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "微か",
+      "transliterations": "かすか",
+      "part_of_speech": "Adjectival Noun",
+      "meaning": "faint, dim",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03572A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "階下から<b>微か</b>な音が聞こえた。",
+        "transliterations": "かいか から <b>かすか</b>な おと が きこえた。",
+        "meaning": "I heard a faint sound from downstairs.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03572A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "傷つく",
+      "transliterations": "きずつく",
+      "part_of_speech": "Verb",
+      "meaning": "get hurt",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03592A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "私は彼女の言葉に<b>傷つきました</b>。",
+        "transliterations": "わたし は かのじょ の ことば に <b>きずつきました</b>。",
+        "meaning": "Her words hurt me.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03592A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "群衆",
+      "transliterations": "ぐんしゅう",
+      "part_of_speech": "Noun",
+      "meaning": "masses (of people), crowd",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03607A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼はマイクで<b>群衆</b>に話しかけたんだ。",
+        "transliterations": "かれ は マイク で <b>ぐんしゅう</b> に はなしかけた ん だ。",
+        "meaning": "He spoke to the crowd through a microphone.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03607A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "こたつ",
+      "transliterations": "こたつ",
+      "part_of_speech": "Noun",
+      "meaning": "table with an electric heater and a coverlet",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03623A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "寒いので<b>こたつ</b>を出しました。",
+        "transliterations": "さむい ので <b>こたつ</b> を だしました。",
+        "meaning": "We got out the kotatsu because it was cold.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03623A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "沿う",
+      "transliterations": "そう",
+      "part_of_speech": "Verb",
+      "meaning": "live up to, go along",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03698A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "あなたの期待に<b>沿えなくて</b>すみません。",
+        "transliterations": "あなた の きたい に <b>そえなくて</b> すみません。",
+        "meaning": "I'm sorry I couldn't live up to your expectation.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03698A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "たんぱく質",
+      "transliterations": "たんぱくしつ",
+      "part_of_speech": "Noun",
+      "meaning": "protein",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03718A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>たんぱく質</b>は大切な栄養です。",
+        "transliterations": "<b>たんぱくしつ</b> は たいせつな えいよう です。",
+        "meaning": "Protein is an important nutrient.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03718A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "縮まる",
+      "transliterations": "ちぢまる",
+      "part_of_speech": "Verb",
+      "meaning": "be shortened, be contracted",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03725A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "兄との身長の差が<b>縮まった</b>。",
+        "transliterations": "あに と の しんちょう の さ が <b>ちぢまった</b>。",
+        "meaning": "The height difference between me and my big brother has decreased.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03725A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "唾",
+      "transliterations": "つば",
+      "part_of_speech": "Noun",
+      "meaning": "spit, saliva",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03747A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は地面に<b>唾</b>を吐いたよ。",
+        "transliterations": "かれ は じめん に <b>つば</b> を はいた よ。",
+        "meaning": "He spat on the ground.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03747A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "眠たい",
+      "transliterations": "ねむたい",
+      "part_of_speech": "Adjective",
+      "meaning": "sleepy (casual)",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03804A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "まだ8時なのに、もう<b>眠たい</b>です。",
+        "transliterations": "まだ 8 じ なのに、もう <b>ねむたい</b> です。",
+        "meaning": "It's still eight o'clock, but I'm already sleepy.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03804A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ばかばかしい",
+      "transliterations": "ばかばかしい",
+      "part_of_speech": "Adjective",
+      "meaning": "silly, absurd",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03817A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>ばかばかしい</b>映画だが面白かった。",
+        "transliterations": "<b>ばかばかしい</b> えいが だ が おもしろかった。",
+        "meaning": "It was a silly movie, but I enjoyed it.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03817A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ひな祭り",
+      "transliterations": "ひなまつり",
+      "part_of_speech": "Noun",
+      "meaning": "the Doll Festival",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03847A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "三月三日は<b>ひな祭り</b>です。",
+        "transliterations": "さん がつ みっか は <b>ひなまつり</b> です。",
+        "meaning": "March 3rd is the Doll Festival.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03847A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "飛行場",
+      "transliterations": "ひこうじょう",
+      "part_of_speech": "Noun",
+      "meaning": "airport, airdrome",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07676A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "バスが<b>飛行場</b>に着きました。",
+        "transliterations": "バス が <b>ひこうじょう</b> に つきました。",
+        "meaning": "The bus has arrived at the airport.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07676A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ジェット機",
+      "transliterations": "ジェットき",
+      "part_of_speech": "Noun",
+      "meaning": "jet airplane",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03594A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>ジェット機</b>が飛んでいる。",
+        "transliterations": "<b>ジェット き</b> が とんで いる。",
+        "meaning": "A jet airplane is flying.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03594A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "田んぼ",
+      "transliterations": "たんぼ",
+      "part_of_speech": "Noun",
+      "meaning": "rice field",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05543A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "この辺は<b>田んぼ</b>がたくさんあります。",
+        "transliterations": "この へん は <b>たんぼ</b> が たくさん あります。",
+        "meaning": "There are a lot of rice fields around here.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05543A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "ストーブ",
+      "transliterations": "ストーブ",
+      "part_of_speech": "Noun",
+      "meaning": "stove",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04593A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "うちではまだ<b>ストーブ</b>を使っています。",
+        "transliterations": "うち で は まだ <b>ストーブ</b> を つかって います。",
+        "meaning": "We are still using a stove in our house.",
+        "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04593A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "スチュワーデス",
+      "transliterations": "スチュワーデス",
+      "part_of_speech": "Noun",
+      "meaning": "flight attendant",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04579A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼女は<b>スチュワーデス</b>になった。",
+        "transliterations": "かのじょ は <b>スチュワーデス</b> に なった。",
+        "meaning": "She's become a flight attendant.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04579A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "テープレコーダー",
+      "transliterations": "テープレコーダー",
+      "part_of_speech": "Noun",
+      "meaning": "tape recorder",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06028A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "<b>テープレコーダー</b>で自分の声を録音しました。",
+        "transliterations": "<b>テープ レコーダー</b> で じぶん の こえ を ろくおん しました。",
+        "meaning": "I recorded my voice on a tape recorder.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06028A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "休校",
+      "transliterations": "きゅうこう",
+      "part_of_speech": "Verbal Noun",
+      "meaning": "temporary school closure",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02205A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "学校は今週は<b>休校</b>です。",
+        "transliterations": "がっこう は こんしゅう は <b>きゅうこう</b> です。",
+        "meaning": "School is closed this week.",
+        "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02205A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "取り締まる",
+      "transliterations": "とりしまる",
+      "part_of_speech": "Verb",
+      "meaning": "control, crack down",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02654A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "警察が飲酒運転を<b>取り締まって</b>いますよ。",
+        "transliterations": "けいさつ が いんしゅ うんてん を <b>とりしまって</b> います よ。",
+        "meaning": "The police are cracking down on drunk driving.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02654A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "緩む",
+      "transliterations": "ゆるむ",
+      "part_of_speech": "Verb",
+      "meaning": "come loose, be off-guard",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02502A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は気が<b>緩んで</b>います。",
+        "transliterations": "かれ は き が <b>ゆるんで</b> います。",
+        "meaning": "He's off-guard.",
+        "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02502A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "乱す",
+      "transliterations": "みだす",
+      "part_of_speech": "Verb",
+      "meaning": "throw (something) into disorder, corrupt (something)",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02223A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "彼は風紀を<b>乱して</b>いる。",
+        "transliterations": "かれ は ふうき を <b>みだして</b> いる。",
+        "meaning": "He's corrupting public morals.",
+        "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02223A.mp3"
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "反感",
+      "transliterations": "はんかん",
+      "part_of_speech": "Noun",
+      "meaning": "antipathy",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02033A.mp3"
+    },
+    "sentences": [
+      {
+        "text": "俺たちは彼の言動に<b>反感</b>をもった。",
+        "transliterations": "おれ たち は かれ の げんどう に <b>はんかん</b> を もった。",
+        "meaning": "We felt antipathy toward his conduct.",
+        "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/02ascketjo.mp3"
+      }
+    ]
+  }
+]
