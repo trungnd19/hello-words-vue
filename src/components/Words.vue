@@ -1,26 +1,10 @@
 <script setup lang="ts">
-import { ref } from "vue";
 import AudioIcon from "./Audio.vue";
 import Spoiler from "./Spoiler.vue";
 import { useWord } from "../stores/WordsStore";
 
 const { currentWord, assignNewWord } = useWord();
 assignNewWord();
-let audio: HTMLAudioElement;
-
-async function playAudio(audioUrl: string) {
-  try {
-    if (audio && !audio.paused) {
-      audio.pause();
-      audio.currentTime = 0;
-    }
-
-    audio = new Audio(audioUrl);
-    await audio.play();
-  } catch (error) {
-    console.error("Error playing audio:", error);
-  }
-}
 
 function getDifferentWord() {
   assignNewWord();
@@ -33,7 +17,7 @@ function getDifferentWord() {
       <h1 class="word__text">{{ currentWord.word.text }}</h1>
       <div class="word__info">
         <div class="word__audio">
-          <AudioIcon @play="playAudio(currentWord.word.sound)" />
+          <AudioIcon :audioUrl="currentWord.word.sound" />
           <div class="word__transliteration">
             <Spoiler :key="currentWord.word.transliterations">{{
               currentWord.word.transliterations
@@ -58,7 +42,7 @@ function getDifferentWord() {
             <div class="sentence__text" v-html="sentence.text"></div>
             <div class="sentence__transliteration">
               <span
-                ><AudioIcon @play="playAudio(sentence.sound)" /><Spoiler
+                ><AudioIcon :audioUrl="sentence.sound" /><Spoiler
                   ><span v-html="sentence.transliterations"></span></Spoiler
               ></span>
             </div>

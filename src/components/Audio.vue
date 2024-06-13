@@ -1,6 +1,6 @@
 <template>
   <svg
-    @click="playAudio"
+    @click="playSound"
     class="audio-icon"
     enable-background="new 0 0 512.01 512.01"
     height="512"
@@ -34,8 +34,17 @@
 </style>
 
 <script setup lang="ts">
-const emit = defineEmits(["play"]);
-function playAudio() {
-  emit("play");
+import { useAudio } from '../composables/useAudio';
+
+const props = defineProps<{
+  audioUrl: string;
+}>();
+
+const emit = defineEmits(['play']);
+
+const { playAudio } = useAudio();
+
+function playSound() {
+  playAudio(props.audioUrl);
 }
 </script>
