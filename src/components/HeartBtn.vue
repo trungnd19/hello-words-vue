@@ -1,6 +1,6 @@
 <template>
-  <div @click="addFavourite">
-    <template v-if="!isClicked">
+  <div @click="addFavourite" :title="tooltip">
+    <template v-if="!isFavourite">
       <svg
         class="heart-icon heart-icon__unlike"
         width="800px"
@@ -51,11 +51,20 @@
 </style>
 
 <script setup lang="ts">
-import { ref } from "vue";
+import { computed } from "vue";
+import { useFavourite } from "../composables/useFavourite";
 
-const isClicked = ref(false);
+const { toggleFavourite, isFavourite } = useFavourite();
+
+const tooltip = computed(() => {
+  if (isFavourite.value) {
+    return "Click to remove word from learning list";
+  } else {
+    return "Click to add word to learning list";
+  }
+});
 
 function addFavourite() {
-  isClicked.value = !isClicked.value;
+  toggleFavourite();
 }
 </script>

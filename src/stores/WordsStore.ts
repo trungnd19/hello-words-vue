@@ -1,4 +1,5 @@
-import { onMounted, readonly, ref } from "vue";
+import { readonly, ref } from "vue";
+import { useFavourite } from "../composables/useFavourite";
 
 export interface Word {
   text: string;
@@ -46,6 +47,8 @@ function getRandom() {
   return Math.floor(Math.random() * TOTAL_DATA_FILES) + 1;
 }
 
+const { setIsFavouriteOnNewWord } = useFavourite();
+
 export function useWord() {
   async function getDataSource() {
     try {
@@ -70,16 +73,8 @@ export function useWord() {
     if (newWord) {
       currentWord.value = newWord;
     }
-    console.log(currentWord.value);
+    setIsFavouriteOnNewWord();
   }
-
-  // onMounted(async () => {
-  //   const newWord = await getDataSource();
-  //   if(newWord) {
-  //     currentWord.value = newWord
-  //   }
-  //   console.log(currentWord.value);
-  // });
 
   return {
     currentWord: readonly(currentWord),

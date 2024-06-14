@@ -1,5 +1,9 @@
 <template>
-  <div @click="toggleDarkMode" class="dark-mode-btn">
+  <div
+    @click="toggleDarkMode"
+    class="dark-mode-btn"
+    title="Click to toggle light/ dark mode"
+  >
     <!-- Moon Icon -->
     <template v-if="darkMode">
       <svg

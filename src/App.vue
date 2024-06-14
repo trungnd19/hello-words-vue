@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Words from "./components/Words.vue";
+import MainPage from "./components/MainPage.vue";
 import Footer from "./components/Footer.vue";
 import Header from "./components/Header.vue";
 import { useDark } from "./stores/useDark";
@@ -10,7 +10,7 @@ setTheme();
 
 <template>
   <Header />
-  <Words />
+  <MainPage />
   <Footer />
 </template>
 

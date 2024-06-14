@@ -1,7 +1,8 @@
 <template>
   <div class="header">
     <DarkModeBtn />
-    <HeartBtn />
+    <HeartBtn v-if="!isFavouritePage" />
+    <BookmarkBtn />
   </div>
 </template>
 
@@ -16,4 +17,8 @@
 <script setup lang="ts">
 import HeartBtn from "./HeartBtn.vue";
 import DarkModeBtn from "./DarkModeBtn.vue";
+import BookmarkBtn from "./BookmarkBtn.vue";
+import { useRoutePage } from "../composables/useRoutePage";
+
+const { isFavouritePage } = useRoutePage();
 </script>

@@ -30,17 +30,18 @@
   width: 1.2rem;
   height: 1.2rem;
   fill: var(--text-color);
+  cursor: pointer;
 }
 </style>
 
 <script setup lang="ts">
-import { useAudio } from '../composables/useAudio';
+import { useAudio } from "../composables/useAudio";
 
 const props = defineProps<{
   audioUrl: string;
 }>();
 
-const emit = defineEmits(['play']);
+const emit = defineEmits(["play"]);
 
 const { playAudio } = useAudio();
 
