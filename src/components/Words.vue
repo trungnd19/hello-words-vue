@@ -12,49 +12,51 @@ function getDifferentWord() {
 </script>
 
 <template>
-  <div class="container">
-    <div class="word">
-      <h1 class="word__text">{{ currentWord.word.text }}</h1>
-      <div class="word__info">
-        <div class="word__audio">
-          <AudioIcon :audioUrl="currentWord.word.sound" />
-          <div class="word__transliteration">
-            <Spoiler :key="currentWord.word.transliterations">{{
-              currentWord.word.transliterations
-            }}</Spoiler>
+  <Transition appear mode="out-in">
+    <div class="container" :key="currentWord.word.text">
+      <div class="word">
+        <h1 class="word__text">{{ currentWord.word.text }}</h1>
+        <div class="word__info">
+          <div class="word__audio">
+            <AudioIcon :audioUrl="currentWord.word.sound" />
+            <div class="word__transliteration">
+              <Spoiler :key="currentWord.word.transliterations">{{
+                currentWord.word.transliterations
+              }}</Spoiler>
+            </div>
           </div>
-        </div>
-        <div class="word__type">{{ currentWord.word.part_of_speech }}</div>
-        <div class="word__meaning">
-          <span class="text-bold word__meaning-title">Meaning: </span>
-          <Spoiler :key="currentWord.word.meaning">
-            {{ currentWord.word.meaning }}</Spoiler
-          >
+          <div class="word__type">{{ currentWord.word.part_of_speech }}</div>
+          <div class="word__meaning">
+            <span class="text-bold word__meaning-title">Meaning: </span>
+            <Spoiler :key="currentWord.word.meaning">
+              {{ currentWord.word.meaning }}</Spoiler
+            >
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="sentence">
-      <span class="text-bold">Example:</span>
-      <ul class="sentence__list">
-        <li v-for="sentence in currentWord.sentences" :key="sentence.text">
-          <div>
-            <div class="sentence__text" v-html="sentence.text"></div>
-            <div class="sentence__transliteration">
-              <span
-                ><AudioIcon :audioUrl="sentence.sound" /><Spoiler
-                  ><span v-html="sentence.transliterations"></span></Spoiler
-              ></span>
-            </div>
+      <div class="sentence">
+        <span class="text-bold">Example:</span>
+        <ul class="sentence__list">
+          <li v-for="sentence in currentWord.sentences" :key="sentence.text">
+            <div>
+              <div class="sentence__text" v-html="sentence.text"></div>
+              <div class="sentence__transliteration">
+                <span
+                  ><AudioIcon :audioUrl="sentence.sound" /><Spoiler
+                    ><span v-html="sentence.transliterations"></span></Spoiler
+                ></span>
+              </div>
 
-            <div class="sentence__meaning">
-              <Spoiler>{{ sentence.meaning }}</Spoiler>
+              <div class="sentence__meaning">
+                <Spoiler>{{ sentence.meaning }}</Spoiler>
+              </div>
             </div>
-          </div>
-        </li>
-      </ul>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
+  </Transition>
   <button class="action-btn" @click="getDifferentWord">
     Learn other word!
   </button>
@@ -99,5 +101,15 @@ function getDifferentWord() {
 
 .word__meaning-title {
   margin-right: 0.2rem;
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style>
