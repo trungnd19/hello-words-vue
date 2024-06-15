@@ -37,7 +37,7 @@ const currentWord = ref<WordData>({
   ],
 });
 
-const TOTAL_DATA_FILES = 10;
+const TOTAL_DATA_FILES = 20;
 
 function getRandomIndex(arrayLength: number) {
   return Math.floor(Math.random() * arrayLength);
