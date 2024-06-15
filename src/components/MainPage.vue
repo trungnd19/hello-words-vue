@@ -11,7 +11,7 @@ const { isFavouritePage } = useRoutePage();
       <FavouriteList v-if="isFavouritePage" />
     </div>
     <div v-else>
-      <Words  />
+      <Words />
     </div>
   </Transition>
 </template>

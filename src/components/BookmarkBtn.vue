@@ -1,7 +1,7 @@
 <template>
   <div @click="navigateToFavouriteList" title="Click to view learning words">
     <svg
-      class="bookmark-btn"
+      class="icon-btn"
       preserveAspectRatio="xMidYMid meet"
       viewBox="0 0 24 24"
       width="1.2em"
@@ -14,15 +14,6 @@
     </svg>
   </div>
 </template>
-
-<style scoped>
-.bookmark-btn {
-  width: 1.2rem;
-  height: 1.2rem;
-  fill: var(--word-color);
-  cursor: pointer;
-}
-</style>
 
 <script setup lang="ts">
 import { useRoutePage } from "../composables/useRoutePage";

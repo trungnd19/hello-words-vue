@@ -2,7 +2,7 @@
   <div @click="addFavourite" :title="tooltip">
     <template v-if="!isFavourite">
       <svg
-        class="heart-icon heart-icon__unlike"
+        class="icon-btn heart-icon__unlike"
         width="800px"
         height="800px"
         viewBox="0 0 24 24"
@@ -20,7 +20,7 @@
 
     <template v-else>
       <svg
-        class="heart-icon heart-icon__like"
+        class="icon-btn heart-icon__like"
         width="800px"
         height="800px"
         viewBox="0 0 24 24"

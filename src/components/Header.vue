@@ -2,7 +2,7 @@
   <div class="header">
     <DarkModeBtn />
     <HeartBtn v-if="!isFavouritePage" />
-    <BookmarkBtn />
+    <BookmarkBtn v-if="!isFavouritePage"/>
   </div>
 </template>
 

@@ -82,3 +82,10 @@ button:focus-visible {
 a {
   color: inherit;
 }
+
+.icon-btn {
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: var(--word-color);
+  cursor: pointer;
+}

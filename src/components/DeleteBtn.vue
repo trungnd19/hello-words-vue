@@ -1,7 +1,7 @@
 <template>
   <svg
     @click="deleteWord"
-    class="delete-btn"
+    class="icon-btn"
     fill="#000000"
     version="1.1"
     id="Capa_1"
@@ -40,14 +40,6 @@
     </g>
   </svg>
 </template>
-
-<style scoped>
-.delete-btn {
-  width: 1.2rem;
-  height: 1.2rem;
-  fill: var(--word-color);
-}
-</style>
 
 <script setup lang="ts">
 import { WordData } from "../stores/WordsStore";
