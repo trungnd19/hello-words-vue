@@ -1,33 +1,18 @@
-# Vue 3 + Vite
+# Hello  Words!  –  Learn a  new  Japanese  word every  time  you  open  a new  tab
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+• A Google Chrome extension that allows users to learn a difficult Japanese word whenever they open a new tab. (Vue 3 + TypeScript)
+• Each word has its own meaning, example sentence(s) and audio link.
+• Functionalities: all  were  self-coded  without  using  any external libraries as I want the bundle size to be as small as possible.  
++ Clicking  to  reveal  word  meaning
++ Adding  word  to  learning  list
++ Toggling  dark mode  
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-
-Mapping function
-const map = json.map((item) => {
-  const word = {
-    text: item.item.cue.text,
-    transliterations: item.item.cue.transliterations.Hrkt,
-    part_of_speech: item.item.cue.part_of_speech,
-    meaning: item.item.response.text,
-    sound: item.sound,
-  };
-
-  const sentences = item.sentences.map((sentence) => {
-    return {
-      text: sentence.cue.text,
-      transliterations: sentence.cue.transliterations.Hrkt,
-      part_of_speech: sentence.cue.part_of_speech,
-      meaning: sentence.response.text,
-      sound: sentence.sound,
-    };
-  });
-
-  return {
-    word: word,
-    sentences: sentences,
-  };
-});
-
-console.log(map);
+• How to use this extension in your browser?
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
++ Pull the repo
++ Run npm i
++ Run npm vite build
++ Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable.)
+Alternatively, click the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu.
+Or, click the Chrome menu, hover over More Tools, then select Extensions.
+Enable Developer Mode by clicking the toggle switch next to Developer mode.
