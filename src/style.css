@@ -86,10 +86,14 @@ a {
 .icon-btn {
   width: 1.2rem;
   height: 1.2rem;
-  fill: var(--word-color);
+  fill: var(--text-color);
   cursor: pointer;
 }
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.japanese-font {
+  font-family: "Noto Sans JP", sans-serif;
 }

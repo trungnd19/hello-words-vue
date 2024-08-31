@@ -89,8 +89,8 @@ watch(displayedItems, () => {
           </thead>
           <tbody>
             <tr v-for="(item, index) in displayedItems" :key="item.word.text">
-              <td>{{ item.word.text }}</td>
-              <td>{{ item.word.transliterations }}</td>
+              <td class="japanese-font">{{ item.word.text }}</td>
+              <td class="japanese-font">{{ item.word.transliterations }}</td>
               <td>{{ item.word.meaning }}</td>
               <td>
                 <ul>
@@ -99,7 +99,10 @@ watch(displayedItems, () => {
                     :key="sentence.text"
                   >
                     <div>
-                      <div class="sentence__text" v-html="sentence.text"></div>
+                      <div
+                        class="sentence__text japanese-font"
+                        v-html="sentence.text"
+                      ></div>
                       <div class="sentence__meaning">
                         {{ sentence.meaning }}
                       </div>

@@ -15,11 +15,11 @@ function getDifferentWord() {
   <Transition appear mode="out-in">
     <div class="container" :key="currentWord.word.text">
       <div class="word">
-        <h1 class="word__text">{{ currentWord.word.text }}</h1>
+        <h1 class="word__text japanese-font">{{ currentWord.word.text }}</h1>
         <div class="word__info">
           <div class="word__audio">
             <AudioIcon :audioUrl="currentWord.word.sound" />
-            <div class="word__transliteration">
+            <div class="word__transliteration japanese-font">
               <Spoiler :key="currentWord.word.transliterations">{{
                 currentWord.word.transliterations
               }}</Spoiler>
@@ -40,11 +40,11 @@ function getDifferentWord() {
         <ul class="sentence__list">
           <li v-for="sentence in currentWord.sentences" :key="sentence.text">
             <div>
-              <div class="sentence__text" v-html="sentence.text"></div>
+              <div class="sentence__text japanese-font" v-html="sentence.text"></div>
               <div class="sentence__transliteration">
                 <span
                   ><AudioIcon :audioUrl="sentence.sound" /><Spoiler
-                    ><span v-html="sentence.transliterations"></span></Spoiler
+                    ><span class="japanese-font" v-html="sentence.transliterations"></span></Spoiler
                 ></span>
               </div>
 

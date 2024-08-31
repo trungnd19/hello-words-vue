@@ -1,6 +1,7 @@
 <template>
   <div class="footer">
-    Made with ❤️ by <a href="https://github.com/trungnd19">trungnd19</a> © 2024
+    Made with ❤️ by <a href="https://buymeacoffee.com/trungnd19">trungnd19</a> ©
+    2024
   </div>
 </template>
 

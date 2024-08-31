@@ -4,8 +4,6 @@
       class="icon-btn"
       preserveAspectRatio="xMidYMid meet"
       viewBox="0 0 24 24"
-      width="1.2em"
-      height="1.2em"
     >
       <path
         fill="currentColor"
