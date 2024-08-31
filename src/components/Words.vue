@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import AudioIcon from "./Audio.vue";
-import Spoiler from "./Spoiler.vue";
 import { useWord } from "../stores/WordsStore";
+import { Spoiler } from "vue-spoiler";
 
 const { currentWord, assignNewWord } = useWord();
 assignNewWord();
@@ -111,5 +111,9 @@ function getDifferentWord() {
 .v-enter-from,
 .v-leave-to {
   opacity: 0;
+}
+
+:deep(.spoiler) {
+  display: inline !important;
 }
 </style>

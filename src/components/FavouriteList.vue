@@ -11,10 +11,22 @@ const { navigateToWord } = useRoutePage();
 const favouriteList = ref<WordData[]>([]);
 const currentPage = ref(1);
 const itemsPerPage = ref(6);
+const searchQuery = ref(""); // New ref for search query
 
 function checkLocalStorageList() {
   favouriteList.value = getLocalStorageWords();
 }
+
+const filteredItems = computed(() => {
+  return favouriteList.value.filter(
+    (item) =>
+      item.word.text.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
+      item.word.transliterations
+        .toLowerCase()
+        .includes(searchQuery.value.toLowerCase()) ||
+      item.word.meaning.toLowerCase().includes(searchQuery.value.toLowerCase())
+  );
+});
 
 checkLocalStorageList();
 
@@ -22,7 +34,7 @@ const displayedItems = computed(() => {
   const startIndex = (currentPage.value - 1) * itemsPerPage.value;
   const endIndex = startIndex + itemsPerPage.value;
 
-  return favouriteList.value.slice(startIndex, endIndex);
+  return filteredItems.value.slice(startIndex, endIndex);
 });
 
 function changePage(pageNumber: number) {
@@ -49,9 +61,18 @@ watch(displayedItems, () => {
       </button>
     </div>
 
-    <template v-if="favouriteList.length">
+    <div class="search-container" v-if="favouriteList.length">
+      <input
+        v-model.trim="searchQuery"
+        type="text"
+        placeholder="Search for a word..."
+        class="search-input"
+      />
+    </div>
+
+    <template v-if="filteredItems.length">
       <Pagination
-        :itemCount="favouriteList.length"
+        :itemCount="filteredItems.length"
         :itemsPerPage="itemsPerPage"
         :currentPage="currentPage"
         @changePage="changePage"
@@ -98,7 +119,7 @@ watch(displayedItems, () => {
       </Pagination>
     </template>
 
-    <div v-else>No word added yet!</div>
+    <div v-else>No word found!</div>
   </div>
 </template>
 
@@ -143,5 +164,26 @@ td {
 
 .examples-col {
   width: 40%;
+}
+
+.search-container {
+  margin-bottom: 1.5rem;
+}
+
+.search-input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-input:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 123, 255, 0.2);
 }
 </style>

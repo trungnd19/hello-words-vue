@@ -89,3 +89,7 @@ a {
   fill: var(--word-color);
   cursor: pointer;
 }
+
+.cursor-pointer {
+  cursor: pointer;
+}

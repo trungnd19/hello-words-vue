@@ -9,9 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.27"
+    "file-saver": "^2.0.5",
+    "papaparse": "^5.4.1",
+    "vue": "^3.4.27",
+    "vue-spoiler": "^0.0.1"
   },
   "devDependencies": {
+    "@types/chrome": "^0.0.270",
+    "@types/file-saver": "^2.0.7",
+    "@types/papaparse": "^5.3.14",
     "@vitejs/plugin-vue": "^5.0.5",
     "vite": "^5.2.12"
   }
