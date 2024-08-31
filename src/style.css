@@ -75,6 +75,12 @@ button:focus-visible {
   padding: 2rem;
 }
 
+@media screen and (max-width: 600px) {
+  #app {
+    padding: 1rem;
+  }
+}
+
 .text-bold {
   font-weight: bold;
 }

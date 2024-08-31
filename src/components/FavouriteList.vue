@@ -130,9 +130,14 @@ watch(displayedItems, () => {
 .container {
   margin-top: 4rem;
   padding-bottom: 1.5rem;
-  width: 100%;
   overflow-x: auto;
-  min-width: 400px;
+  width: 70vw;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    min-width: 400px;
+  }
 }
 
 th,
