@@ -2,16 +2,16 @@
 import { computed, ref, watch } from "vue";
 import { getLocalStorageWords } from "../composables/useFavourite";
 import { useRoutePage } from "../composables/useRoutePage";
-import DeleteBtn from "./DeleteBtn.vue";
+import DeleteBtn from "../components/DeleteBtn.vue";
 import { WordData } from "../stores/WordsStore";
-import Pagination from "./Pagination.vue";
+import Pagination from "../components/Pagination.vue";
 
 const { navigateToWord } = useRoutePage();
 
 const favouriteList = ref<WordData[]>([]);
 const currentPage = ref(1);
 const itemsPerPage = ref(6);
-const searchQuery = ref(""); // New ref for search query
+const searchQuery = ref("");
 
 function checkLocalStorageList() {
   favouriteList.value = getLocalStorageWords();

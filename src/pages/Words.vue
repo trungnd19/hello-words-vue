@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import AudioIcon from "./Audio.vue";
+import AudioIcon from "../components/Audio.vue";
 import { useWord } from "../stores/WordsStore";
 import { Spoiler } from "vue-spoiler";
 
@@ -20,15 +20,20 @@ function getDifferentWord() {
           <div class="word__audio">
             <AudioIcon :audioUrl="currentWord.word.sound" />
             <div class="word__transliteration japanese-font">
-              <Spoiler :key="currentWord.word.transliterations">{{
-                currentWord.word.transliterations
-              }}</Spoiler>
+              <Spoiler
+                :key="currentWord.word.transliterations"
+                :tagBackgroundColor="`var(--spoiler-color)`"
+                >{{ currentWord.word.transliterations }}</Spoiler
+              >
             </div>
           </div>
           <div class="word__type">{{ currentWord.word.part_of_speech }}</div>
           <div class="word__meaning">
             <span class="text-bold word__meaning-title">Meaning: </span>
-            <Spoiler :key="currentWord.word.meaning">
+            <Spoiler
+              :key="currentWord.word.meaning"
+              :tagBackgroundColor="`var(--spoiler-color)`"
+            >
               {{ currentWord.word.meaning }}</Spoiler
             >
           </div>
@@ -40,16 +45,25 @@ function getDifferentWord() {
         <ul class="sentence__list">
           <li v-for="sentence in currentWord.sentences" :key="sentence.text">
             <div>
-              <div class="sentence__text japanese-font" v-html="sentence.text"></div>
+              <div
+                class="sentence__text japanese-font"
+                v-html="sentence.text"
+              ></div>
               <div class="sentence__transliteration">
                 <span
                   ><AudioIcon :audioUrl="sentence.sound" /><Spoiler
-                    ><span class="japanese-font" v-html="sentence.transliterations"></span></Spoiler
+                    :tagBackgroundColor="`var(--spoiler-color)`"
+                    ><span
+                      class="japanese-font"
+                      v-html="sentence.transliterations"
+                    ></span></Spoiler
                 ></span>
               </div>
 
               <div class="sentence__meaning">
-                <Spoiler>{{ sentence.meaning }}</Spoiler>
+                <Spoiler :tagBackgroundColor="`var(--spoiler-color)`">{{
+                  sentence.meaning
+                }}</Spoiler>
               </div>
             </div>
           </li>
@@ -73,7 +87,7 @@ function getDifferentWord() {
 }
 
 .word__info > *:not(:last-child) {
-  margin-bottom: 10px; /* Adjust the margin value as needed */
+  margin-bottom: 10px;
 }
 
 .word__info {
@@ -81,7 +95,7 @@ function getDifferentWord() {
 }
 
 .sentence__list > *:not(:last-child) {
-  margin-bottom: 24px; /* Adjust the margin value as needed */
+  margin-bottom: 24px;
 }
 
 .word__audio {

@@ -46,7 +46,7 @@
 
 .heart-icon__unlike path,
 .heart-icon__like path {
-  fill: var(--word-color);
+  fill: var(--text-color);
 }
 </style>
 

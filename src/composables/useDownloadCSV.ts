@@ -1,5 +1,4 @@
-import { ref } from "vue";
-import { WordData, useWord } from "../stores/WordsStore";
+import { WordData } from "../stores/WordsStore";
 import { getLocalStorageWords } from "./useFavourite";
 import Papa from "papaparse";
 import { saveAs } from "file-saver";

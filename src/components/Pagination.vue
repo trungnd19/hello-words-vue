@@ -35,18 +35,14 @@ interface Props {
   currentPage: number;
 }
 
-// Define props with type inference
 const props = defineProps<Props>();
 
-// Default props value
 const itemsPerPage = props.itemsPerPage ?? 10;
 
-// Define emits with type inference
 const emit = defineEmits<{
   (e: "changePage", page: number): void;
 }>();
 
-// Compute the total number of pages
 const pageCount = computed(() => Math.ceil(props.itemCount / itemsPerPage));
 
 // Generate an array of pages
