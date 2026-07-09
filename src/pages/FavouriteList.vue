@@ -5,6 +5,7 @@ import { useRoutePage } from "../composables/useRoutePage";
 import DeleteBtn from "../components/DeleteBtn.vue";
 import { WordData } from "../stores/WordsStore";
 import Pagination from "../components/Pagination.vue";
+import { sanitizeHtml } from "../utils/sanitize";
 
 const { navigateToWord } = useRoutePage();
 
@@ -67,6 +68,7 @@ watch(displayedItems, () => {
         type="text"
         placeholder="Search for a word..."
         class="search-input"
+        aria-label="Search words"
       />
     </div>
 
@@ -101,7 +103,7 @@ watch(displayedItems, () => {
                     <div>
                       <div
                         class="sentence__text japanese-font"
-                        v-html="sentence.text"
+                        v-html="sanitizeHtml(sentence.text)"
                       ></div>
                       <div class="sentence__meaning">
                         {{ sentence.meaning }}
@@ -128,7 +130,7 @@ watch(displayedItems, () => {
 
 <style scoped>
 .container {
-  margin-top: 4rem;
+  margin-top: 3rem;
   padding-bottom: 1.5rem;
   overflow-x: auto;
   width: 70vw;
@@ -140,22 +142,54 @@ watch(displayedItems, () => {
   }
 }
 
-th,
-td {
-  padding: 10px;
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  background-color: var(--card-bg);
+  box-shadow: var(--shadow);
+}
+
+th {
+  padding: 12px 16px;
   text-align: left;
+  font-weight: 600;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--text-secondary);
+  background-color: var(--background-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background-color: var(--background-color);
 }
 
 .table-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.5rem;
 }
 
 .table-header-title {
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 600;
+  color: var(--word-color);
 }
 
 .delete-cell {
@@ -179,19 +213,25 @@ td {
 }
 
 .search-input {
-  padding: 0.5rem;
-  font-size: 1rem;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
   width: 100%;
-  max-width: 300px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  max-width: 320px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  box-shadow: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .search-input:focus {
-  border-color: #007bff;
+  border-color: var(--accent-color);
   outline: none;
-  box-shadow: 0 2px 6px rgba(0, 123, 255, 0.2);
+  box-shadow: 0 0 0 3px rgba(139, 111, 71, 0.1);
+}
+
+.search-input::placeholder {
+  color: var(--text-secondary);
 }
 </style>

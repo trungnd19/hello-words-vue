@@ -44,7 +44,18 @@ const { darkMode, toggleDarkMode } = useDark();
 <style scoped>
 .dark-mode-btn {
   display: flex;
-  justify-content: flex-end;
+  align-items: center;
   cursor: pointer;
+}
+
+.dark-mode-btn svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.dark-mode-btn:hover svg {
+  transform: scale(1.15);
+  opacity: 0.8;
 }
 </style>

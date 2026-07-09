@@ -1,0 +1,87 @@
+[
+  {
+    "word": {
+      "text": "勉強",
+      "transliterations": "べんきょう",
+      "part_of_speech": "Noun",
+      "meaning": "study",
+      "sound": ""
+    },
+    "sentences": [
+      {
+        "text": "毎日日本語を<b>勉強</b>しています。",
+        "transliterations": "まいにち にほんご を <b>べんきょう</b> しています。",
+        "meaning": "I study Japanese every day.",
+        "sound": ""
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "天気",
+      "transliterations": "てんき",
+      "part_of_speech": "Noun",
+      "meaning": "weather",
+      "sound": ""
+    },
+    "sentences": [
+      {
+        "text": "今日の<b>天気</b>はいいですね。",
+        "transliterations": "きょう の <b>てんき</b> は いい ですね。",
+        "meaning": "The weather is nice today.",
+        "sound": ""
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "食べる",
+      "transliterations": "たべる",
+      "part_of_speech": "Verb",
+      "meaning": "to eat",
+      "sound": ""
+    },
+    "sentences": [
+      {
+        "text": "朝ごはんを<b>食べ</b>ましたか？",
+        "transliterations": "あさごはん を <b>たべ</b>ましたか？",
+        "meaning": "Did you eat breakfast?",
+        "sound": ""
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "走る",
+      "transliterations": "はしる",
+      "part_of_speech": "Verb",
+      "meaning": "to run",
+      "sound": ""
+    },
+    "sentences": [
+      {
+        "text": "公園で<b>走る</b>のが好きです。",
+        "transliterations": "こうえん で <b>はしる</b> のが すき です。",
+        "meaning": "I like running in the park.",
+        "sound": ""
+      }
+    ]
+  },
+  {
+    "word": {
+      "text": "難しい",
+      "transliterations": "むずかしい",
+      "part_of_speech": "Adjective",
+      "meaning": "difficult",
+      "sound": ""
+    },
+    "sentences": [
+      {
+        "text": "この問題は<b>難しい</b>です。",
+        "transliterations": "この もんだい は <b>むずかしい</b> です。",
+        "meaning": "This problem is difficult.",
+        "sound": ""
+      }
+    ]
+  }
+]

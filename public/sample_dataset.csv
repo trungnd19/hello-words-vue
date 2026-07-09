@@ -1,0 +1,6 @@
+word,reading,part_of_speech,meaning,example_text,example_reading,example_meaning
+勉強,べんきょう,Noun,study,毎日日本語を勉強しています。,まいにち にほんご を べんきょう しています。,I study Japanese every day.
+天気,てんき,Noun,weather,今日の天気はいいですね。,きょう の てんき は いい ですね。,The weather is nice today.
+食べる,たべる,Verb,to eat,朝ごはんを食べましたか？,あさごはん を たべましたか？,Did you eat breakfast?
+走る,はしる,Verb,to run,公園で走るのが好きです。,こうえん で はしる のが すき です。,I like running in the park.
+難しい,むずかしい,Adjective,difficult,この問題は難しいです。,この もんだい は むずかしい です。,This problem is difficult.

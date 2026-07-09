@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dompurify": "^3.4.11",
     "file-saver": "^2.0.5",
     "papaparse": "^5.4.1",
     "vue": "^3.4.27",
@@ -16,6 +17,7 @@
   },
   "devDependencies": {
     "@types/chrome": "^0.0.270",
+    "@types/dompurify": "^3.0.5",
     "@types/file-saver": "^2.0.7",
     "@types/papaparse": "^5.3.14",
     "@vitejs/plugin-vue": "^5.0.5",

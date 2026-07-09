@@ -1,25 +1,25 @@
 <template>
   <div>
     <slot></slot>
-    <div>
+    <div class="pagination">
       <button
         type="button"
-        :class="['button--link', 'button--large']"
+        class="pagination__btn"
         @click="changePage(currentPage - 1)"
         :disabled="currentPage === 1"
       >
-        Back
+        &larr; Back
       </button>
 
-      <span>{{ currentPage }} / {{ pageCount }}</span>
+      <span class="pagination__info">{{ currentPage }} / {{ pageCount }}</span>
 
       <button
         type="button"
-        :class="['button--link', 'button--large']"
+        class="pagination__btn"
         @click="changePage(currentPage + 1)"
         :disabled="currentPage === pageCount"
       >
-        Next
+        Next &rarr;
       </button>
     </div>
   </div>
@@ -57,22 +57,28 @@ const changePage = (page: number) => {
 </script>
 
 <style scoped>
-.button--link {
-  border: none;
-  background: none;
-  cursor: pointer;
-  text-decoration: underline;
-  padding: 5px;
-  margin: 0 5px;
-  color: var(--text-color);
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
 }
 
-.button--large {
-  font-size: 1.2em;
+.pagination__btn {
+  font-size: 0.9em;
+  padding: 0.5em 1em;
+}
+
+.pagination__info {
+  font-size: 0.9em;
+  color: var(--text-secondary);
+  min-width: 3rem;
+  text-align: center;
 }
 
 button:disabled {
   cursor: not-allowed;
-  opacity: 0.5;
+  opacity: 0.4;
 }
 </style>

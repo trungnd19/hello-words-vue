@@ -1,5 +1,7 @@
 import { readonly, ref } from "vue";
 import { useFavourite } from "../composables/useFavourite";
+import { useCustomDataset, isBuiltinDataset } from "../composables/useCustomDataset";
+import type { BuiltinDatasetId } from "../composables/useCustomDataset";
 
 export interface Word {
   text: string;
@@ -37,22 +39,35 @@ const currentWord = ref<WordData>({
   ],
 });
 
-const TOTAL_DATA_FILES = 20;
+const BUILTIN_RANGES: Record<BuiltinDatasetId, { start: number; end: number }> = {
+  advanced: { start: 1, end: 10 },
+  intermediate: { start: 11, end: 20 },
+};
 
 function getRandomIndex(arrayLength: number) {
   return Math.floor(Math.random() * arrayLength);
 }
 
-function getRandom() {
-  return Math.floor(Math.random() * TOTAL_DATA_FILES) + 1;
+function getRandomFileIndex(datasetId: BuiltinDatasetId) {
+  const { start, end } = BUILTIN_RANGES[datasetId];
+  return Math.floor(Math.random() * (end - start + 1)) + start;
 }
 
 const { setIsFavouriteOnNewWord } = useFavourite();
+const { getActiveDatasetWords, activeDataset } = useCustomDataset();
 
 export function useWord() {
-  async function getDataSource() {
+  async function getDataSource(): Promise<WordData | null> {
+    // Check for active custom dataset first
+    const customWords = getActiveDatasetWords();
+    if (customWords && customWords.length > 0) {
+      return customWords[getRandomIndex(customWords.length)];
+    }
+
+    // Default: fetch from static JSON files based on active built-in dataset
+    const builtinId = isBuiltinDataset(activeDataset.value) ? activeDataset.value : "advanced";
     try {
-      const response = await fetch(`/data_${getRandom()}.json`);
+      const response = await fetch(`/data_${getRandomFileIndex(builtinId)}.json`);
 
       if (!response.ok) {
         throw new Error(`Failed to fetch file`);
